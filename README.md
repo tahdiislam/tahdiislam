@@ -13,3 +13,8 @@ I'm a web developer with experience in various programming languages and framewo
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tahdiislam/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/tahdiislam) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/tahdiislam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://tahdiislam.netlify.app/)  
+
+</br>
+<p style="display: flex; justify-contect: space-between;">
+<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=tahdiislam" />
+</p>
