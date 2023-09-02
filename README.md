@@ -1,19 +1,21 @@
-### Hi there 👋,
-![]()
-I'm a web developer with experience in various programming languages and frameworks. My goal is to create efficient and user-friendly web applications, whether I'm working alone or on a team. When I'm not coding, I like to go hiking, read, or experiment with new tech.
 
+<p align="center">
+<img src="./image.png" />
+</p>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/tahdiislam/count.svg" />
 </p>
 
+I'm a web developer with experience in various programming languages and frameworks. My goal is to create efficient and user-friendly web applications, whether I'm working alone or on a team. When I'm not coding, I like to go hiking, read, or experiment with new tech.
+
+
 - 🔭 I’m currently working on Playerorbit 
 - 🌱 I’m currently learning DSA & Algo 
 - 👯 I’m looking to collaborate on Open Source
-
-
 <br>
-<br>
+
+📧 **Social**<br>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-tahdiislam-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/tahdiislam/)
 [![Discord](https://img.shields.io/badge/Discord-tahdiislam-blue?logo=discord&logoColor=white)](https://discord.com/users/776133256240300052)
@@ -40,8 +42,9 @@ I'm a web developer with experience in various programming languages and framewo
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&labelColor=ffffff)
 ![ESlint](https://img.shields.io/badge/-ESlint-000000?style=flat&logo=ESlint&labelColor=4B32C3)
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
-
 </br>
+
+🏴 **Github Stack:** 🛠️<br>
 <p style="display: flex; justify-contect: space-between;">
 <img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=tahdiislam" />
 </p>
