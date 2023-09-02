@@ -46,8 +46,5 @@ I'm a web developer with experience in various programming languages and framewo
 ![ESlint](https://img.shields.io/badge/-ESlint-000000?style=flat&logo=ESlint&labelColor=4B32C3)
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
 </br>
-
-🏴 **Github Stack:** 🛠️<br>
-<p style="display: flex; justify-contect: space-between;">
-<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=tahdiislam" />
-</p>
+</br>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=tahdiislam&theme=merko&border_radius=5&mode=weekly&card_width=500" alt="tahdiislam" /></p>
