@@ -11,7 +11,7 @@ I'm a web developer with experience in various programming languages and framewo
  
 
 - 🔭 I’m currently working on Playerorbit 
-- 🌱 I’m currently learning DSA & Algo 
+- 🌱 I’m currently learning DSA, Algo, DP, & OP
 - 👯 I’m looking to collaborate on Open Source
 <br>
 
