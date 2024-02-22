@@ -20,7 +20,7 @@ I'm a web developer with experience in various programming languages and framewo
 [![Linkedin](https://img.shields.io/badge/LinkedIn-tahdiislam-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/tahdiislam/)
 [![Discord](https://img.shields.io/badge/Discord-tahdiislam-blue?logo=discord&logoColor=white)](https://discord.com/users/776133256240300052)
 [![Twitter](https://img.shields.io/badge/Twitter-tahdiislam-black?logo=Twitter&logoColor=white)](https://twitter.com/tahdiislam)
-[![Codeforces](https://img.shields.io/badge/Codeforces-tahdiislam-blue?logo=Codeforces&logoColor=white)](https://codeforces.com/profile/tahdiislam60)
+[![Codeforces](https://img.shields.io/badge/Codeforces-tahdiislam-blue?logo=Codeforces&logoColor=white)](https://codeforces.com/profile/tahdiislam)
 [![CodeChef](https://img.shields.io/badge/CodeChef-tahdiislam-964B00?logo=CodeChef&logoColor=white)](https://www.codechef.com/users/tahdiislam)
 [![LeetCode](https://img.shields.io/badge/LeetCode-tahdiislam-FFA116?logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/tahdiislam/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-tahdiislam-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/tahdiislam)
