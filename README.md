@@ -44,7 +44,6 @@ I'm a web developer with experience in various programming languages and framewo
 ![socket.io](https://img.shields.io/badge/-Socket.Io-000000?style=flat&logo=socket.io&logoColor=000000&labelColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&labelColor=ffffff)
 ![ESlint](https://img.shields.io/badge/-ESlint-000000?style=flat&logo=ESlint&labelColor=4B32C3)
-![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
 </br>
 </br>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=tahdiislam&theme=merko&border_radius=5&mode=weekly&card_width=500" alt="tahdiislam" /></p>
