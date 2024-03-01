@@ -10,8 +10,7 @@
 I'm a web developer with experience in various programming languages and frameworks. My goal is to create efficient and user-friendly web applications, whether I'm working alone or on a team. When I'm not coding, I like to go hiking, read, or experiment with new tech.
  
 
-- 🔭 I’m currently working on Playerorbit 
-- 🌱 I’m currently learning DSA, Algo, DP, & OP
+- 🌱 I’m currently learning MySQL
 - 👯 I’m looking to collaborate on Open Source
 <br>
 
