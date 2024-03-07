@@ -9,6 +9,7 @@ Hi there,👋 I'm a web developer with experience in various programming languag
 
 - 🌱 I’m currently Deep diving in MySQL and OOP in Python
 - 👯 I’m looking to collaborate on Open Source
+- 🧑‍💻 Doing competitive programming
 <br>
 
 📧 **Links**<be>
