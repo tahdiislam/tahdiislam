@@ -1,14 +1,11 @@
-
-<p align="center">
-<img src="./image.png" />
+<p align='justify' stype="width: full">
+Hi there,👋 I'm a web developer with experience in various programming languages and frameworks. My goal is to create efficient and user-friendly web applications, whether I'm working alone or on a team. When I'm not coding, I like to go hiking, read, or experiment with new tech.
 </p>
+
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/tahdiislam/count.svg" />  
+  <img src="https://profile-counter.glitch.me/tahdiislam/count.svg" />
 </p>
- 
-I'm a web developer with experience in various programming languages and frameworks. My goal is to create efficient and user-friendly web applications, whether I'm working alone or on a team. When I'm not coding, I like to go hiking, read, or experiment with new tech.
- 
 
 - 🌱 I’m currently learning MySQL
 - 👯 I’m looking to collaborate on Open Source
@@ -16,33 +13,44 @@ I'm a web developer with experience in various programming languages and framewo
 
 📧 **Links**<br>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-tahdiislam-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/tahdiislam/)
-[![Discord](https://img.shields.io/badge/Discord-tahdiislam-blue?logo=discord&logoColor=white)](https://discord.com/users/776133256240300052)
-[![Twitter](https://img.shields.io/badge/Twitter-tahdiislam-black?logo=Twitter&logoColor=white)](https://twitter.com/tahdiislam)
-[![Codeforces](https://img.shields.io/badge/Codeforces-tahdiislam-blue?logo=Codeforces&logoColor=white)](https://codeforces.com/profile/tahdiislam)
-[![CodeChef](https://img.shields.io/badge/CodeChef-tahdiislam-964B00?logo=CodeChef&logoColor=white)](https://www.codechef.com/users/tahdiislam)
-[![LeetCode](https://img.shields.io/badge/LeetCode-tahdiislam-FFA116?logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/tahdiislam/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-tahdiislam-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/tahdiislam)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tahdiislam/)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/776133256240300052)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/tahdiislam)
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/tahdiislam)
+[![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/tahdiislam)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/tahdiislam/)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/tahdiislam)
 <br>
 
-💻 **Languages and Tools:** 🛠️<br>
+💻 **Main Techonology:** 🛠️<be>
 
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) 
-![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass&logoColor=ffffff&labelColor=%23CC6699)
-![Font Awesome](https://img.shields.io/badge/-font%20awesome-000000?style=flat&logo=font-awesome&logoColor=339AF0&labelColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C)
-![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=000000&labelColor=ffffff)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
-![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js)
-![NPM](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm&labelColor=ffffff)
-![socket.io](https://img.shields.io/badge/-Socket.Io-000000?style=flat&logo=socket.io&logoColor=000000&labelColor=ffffff)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&labelColor=ffffff)
-![ESlint](https://img.shields.io/badge/-ESlint-000000?style=flat&logo=ESlint&labelColor=4B32C3)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+ ⚙️ **Tools & Others:** 🛠️<be>
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+
 </br>
 </br>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=tahdiislam&theme=merko&border_radius=5&mode=weekly&card_width=500" alt="tahdiislam" /></p>
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tahdiislam&theme=algolia)
