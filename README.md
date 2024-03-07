@@ -7,7 +7,7 @@ Hi there,👋 I'm a web developer with experience in various programming languag
   <img src="https://profile-counter.glitch.me/tahdiislam/count.svg" />
 </p>
 
-- 🌱 I’m currently learning MySQL
+- 🌱 I’m currently Deep diving in MySQL and OOP in Python
 - 👯 I’m looking to collaborate on Open Source
 <br>
 
