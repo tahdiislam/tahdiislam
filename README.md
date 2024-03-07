@@ -11,8 +11,8 @@ Hi there,👋 I'm a web developer with experience in various programming languag
 - 👯 I’m looking to collaborate on Open Source
 <br>
 
-📧 **Links**<br>
-
+📧 **Links**<be>
+  
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tahdiislam/)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/776133256240300052)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/tahdiislam)
@@ -20,6 +20,7 @@ Hi there,👋 I'm a web developer with experience in various programming languag
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/tahdiislam)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/tahdiislam/)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/tahdiislam)
+
 <br>
 
 💻 **Main Techonology:** 🛠️<be>
