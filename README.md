@@ -11,7 +11,7 @@ Hi there,👋 I'm a web developer with experience in various programming languag
 - 👯 I’m looking to collaborate on Open Source
 - 🧑‍💻 Doing competitive programming
 - ✅ 1 year plus experience as a Full Stack developer at [Playerorbit](https://playerorbit.com/)
-<br>
+<br> 
 
 📧 **Links**<be>
   
