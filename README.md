@@ -5,7 +5,7 @@ Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 I'm a web developer with experience in various programming languages and frameworks. My goal is to create efficient and user-friendly web applications, whether I'm working alone or on a team. When I'm not coding, I like to go hiking, read, or experiment with new tech.
 </p>
  
-<p align="center"> 
+<p align="center">  
   Visitor count<br>  
   <img src="https://profile-counter.glitch.me/tahdiislam/count.svg" /> 
 </p> 
