@@ -6,7 +6,7 @@ I'm a web developer with experience in various programming languages and framewo
 </p> 
   
 <p align="center">  
-  Visitor count<br>  
+  Visitor count<br>
   <img src="https://profile-counter.glitch.me/tahdiislam/count.svg" /> 
 </p> 
  
