@@ -13,7 +13,7 @@ I'm a web developer with experience in various programming languages and framewo
 - 🌱 I’m currently Deep diving in MySQL and OOP in Python 
 - 👯 I’m looking to collaborate on Open Source
 - 🧑‍💻 Doing competitive programming
-- ✅ 1 year plus experience as a Full Stack developer at [Playerorbit](https://playerorbit.com/)
+- ✅ 1 year plus experience as a Full Stack developer at [Playerorbit](https://www.playerorbit.com/)
 <br> 
 
 📧 **Links**<be>
