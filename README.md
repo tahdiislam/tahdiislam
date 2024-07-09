@@ -1,5 +1,5 @@
 <h2 align="center">
-Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+Hi there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
 </h2> 
 <p align='justify' stype="width: full"> 
 I'm a web developer with experience in various programming languages and frameworks. My goal is to create efficient and user-friendly web applications, whether I'm working alone or on a team. When I'm not coding, I like to go hiking, read, or experiment with new tech. 
