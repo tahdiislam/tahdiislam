@@ -7,7 +7,7 @@ I'm a web developer with experience in various programming languages and framewo
    
 <p align="center">  
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/tahdiislam/count.svg" />   
+  <img src="https://profile-counter.glitch.me/tahdiislam/count.svg" />
 </p> 
  
 - 🌱 I’m currently Deep diving into Django
