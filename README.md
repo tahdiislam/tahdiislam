@@ -17,6 +17,11 @@ Hi there! 👋 I'm a **Backend Developer** passionate about building scalable an
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=tahdiislam&icon=0&color=9)](https://visitcount.itsvg.in)
+<table>
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/tahdiislam/count.svg" alt="" /></td>
+  </tr>
+</table>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
