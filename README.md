@@ -2,7 +2,7 @@ Hi there! 👋 I'm a **Backend Developer** passionate about building scalable an
 
 ## 💻 What I'm Working On
 - Working as a backend developer and a competitive programmer.
-- Looking to collaborate on **open-source projects** related to Python and Node.js. 
+- Looking to collaborate on **open-source projects** related to Python and Node.js.
 - Enhancing my knowledge of **Algorithm**. 
 
 ## 🌐 Socials:
